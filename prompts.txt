@@ -1,0 +1,34 @@
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em banco de dados e eu gostaria de uma ajuda sua para criar 5 sugestões
+de nomes criativos para um podcast.
+O podcast vai falar sobre dicas e novidades sobre banco de dados e o que está acontecendo no mercado
+
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome deve conter alguma palavra forte que remeta a banco de dados
+
+
+# Episódio de Podcast
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em banco de dados cujo o nome é "DataVerse: Explorações e Novidades em Banco de Dados".
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] Uma introdução convidativa e bem enxuta
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade da origem da história dos Banco de Dados
+- no bloco [CURIOSIDADE 2] curiosidade sobre o Oracle
+- no bloco [FINALIZAÇÃO]  Despedida padrão.
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Gustavo
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
